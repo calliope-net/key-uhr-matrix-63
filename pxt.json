@@ -8,7 +8,8 @@
         "pins": "github:calliope-net/pins#v1.0.1",
         "matrix": "github:calliope-net/matrix#v0.4.5",
         "lcd-16x2": "github:calliope-net/lcd-16x2#v2.0.6",
-        "rtc-uhr": "github:calliope-net/rtc-uhr#v2.1.1"
+        "rtc-uhr": "github:calliope-net/rtc-uhr#v2.1.1",
+        "basic": "github:calliope-net/basic#v0.0.4"
     },
     "files": [
         "main.blocks",
